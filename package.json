@@ -1,0 +1,11 @@
+{
+    "name": "cssbutton",
+    "version": "0.0.0",
+    "scripts": {
+        "serve": "live-server"
+    },
+    "dependencies": {
+        "http-server": "^13.0.2",
+        "live-server": "^1.2.1"
+    }
+}
