@@ -2,4 +2,4 @@
 
 [Click here](https://stackblitz.com/~/github.com/holgerflick/web.cssbutton) to load a live version inside your web browser.
 
-![./preview/live.png](Live preview)
+![Live preview](./preview/live.png)
